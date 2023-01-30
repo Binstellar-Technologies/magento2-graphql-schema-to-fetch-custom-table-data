@@ -1,0 +1,1 @@
+# magento2-graphql-schema-to-fetch-custom-table-data
