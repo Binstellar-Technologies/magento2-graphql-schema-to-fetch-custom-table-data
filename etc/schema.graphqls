@@ -1,0 +1,9 @@
+type Query {
+    bookfreemeasure : [Bookfreemeasure] @resolver( class: "Binstellar\\Freehomemeasure\\Model\\Resolver\\Bookfreemeasure") @doc(description: "Get list of users who has filled form for booking free measure.")
+}
+
+type Bookfreemeasure {
+    firstname : String  @doc(description: "First Name")
+    lastname : String  @doc(description: "Last Name")
+    email : String  @doc(description: "Email")
+}
