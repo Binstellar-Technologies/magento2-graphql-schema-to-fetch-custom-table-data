@@ -2,7 +2,9 @@
 
 > Magento2 an open-source e-commerce platform written in PHP.
 
+
 > GraphQL a new approach to working with APIs. It is a data query language developed by Facebook. It was implemented by Adobe Commerce and Magento Open Source to provide an another approach to REST and SOAP web APIs for frontend development.
+
 
 > Basically, GraphQL is a query language for APIs which gives clients the power to ask for exactly the need and nothing more. GraphQL uses mutations to perform CRUD operations.
 
