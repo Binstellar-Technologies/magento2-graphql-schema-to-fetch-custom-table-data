@@ -59,5 +59,8 @@ php bin/magento cache:flush
 &nbsp;
 &nbsp;
 
+<kbd>
+
 ![screenshot-nimbusweb me-2023 01 24-18_08_39 (1)](https://user-images.githubusercontent.com/123800304/215411774-6013a47b-9c57-4c08-9fdb-e0e1a5341e33.png)
 
+</kbd>
